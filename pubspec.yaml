@@ -1,7 +1,7 @@
 name: reorderable_gridview
 description: Reorderable flutter GridView
 version: 0.0.1
-homepage:
+homepage: https://github.com/OliverRhyme/reorderable_gridview
 
 environment:
   sdk: ">=2.13.0 <3.0.0"
